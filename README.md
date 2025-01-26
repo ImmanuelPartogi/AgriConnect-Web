@@ -7,7 +7,7 @@ An innovative digital ecosystem connecting farmers, investors, and agricultural 
 ## 🚀 Key Features
 
 - **👤 Farmer Profiles**: Personalized digital spaces for agricultural professionals
-- **🏪 Marketplace**: Digital platform for seamless agricultural product transactions
+- **🏪 MarketplaceListing**: Platform for showcasing and connecting buyers with agricultural products
 - **📚 Educational Blogs**: Knowledge-sharing platform with expert agricultural insights
 - **💬 Live Chat**: Real-time communication and instant support network
 - **📰 Agricultural News**: Up-to-date industry trends and developments
